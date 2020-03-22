@@ -47,6 +47,37 @@ Our purpose is to:
 
 
 ## Dataflow Diagram
+![Blood_aid_data_flow_diagram_colored](https://user-images.githubusercontent.com/30120066/77251243-81a1e400-6c77-11ea-9331-111de043361c.jpg)
+
+## BASIC MODULES
+The project “BLOOD AID” app is divided into two main modules – Admistration Module and User Module<br>
+
+   ## User Module:
+   * <b>Login and Registration:</b>  New users have to register first and mobile number and password will be used for authentication purpose.
+   <p float="left">
+   <img src="https://user-images.githubusercontent.com/30120066/77251454-a34f9b00-6c78-11ea-8e57-e53e73d6c338.jpg" width="200" height="400"></img>
+   <img src="https://user-images.githubusercontent.com/30120066/77251455-a64a8b80-6c78-11ea-8f23-310aa336b795.jpg" width="200" height="400"></img>
+   </p>
+
+   * <b>User Dashboard:</b> update user location if it changes and show all feature
+   <p float="left">
+   <img src="https://user-images.githubusercontent.com/30120066/77251529-017c7e00-6c79-11ea-94d0-e1970d07f0b6.JPG" width="200" height="400"></img>
+   </p>
+   
+   * Profile : show user data and can update it by clicking it 
+   <p float="left">
+   <img src="https://user-images.githubusercontent.com/30120066/77251568-443e5600-6c79-11ea-83e9-4ee93e4f1a17.JPG" width="200" height="400"></img>
+   <img src="https://user-images.githubusercontent.com/30120066/77251571-456f8300-6c79-11ea-9d28-4b8ca277cd73.JPG" width="200" height="400"></img>
+   </p>
+   
+   * <b>Notfication :</b> show all notification of user<br>
+    <p float="left">
+   <img src="https://user-images.githubusercontent.com/30120066/77251969-ba43bc80-6c7b-11ea-89bc-4ebcdc95451c.JPG" width="200" height="400"></img>
+   </p>
+   
+   
+
+
 
 
 
