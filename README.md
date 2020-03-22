@@ -1,6 +1,8 @@
 # Blood-Aid
 This make the  communication easier between the blood donor and the blood needy patient.
 
+#### The Database is hosted on a remote server. So, an API was created to access the database from the App. The API is on https://bloodaid.hipranto.com . Documentation is not publicly available now. But hopefully the API will be public very soon sothat more people can make this kind of app very easily. More people can get help from this kind of app by communicating with blood donor which is our main purpose of this project. If we make the API public, that actually aligned with our purpose. 
+
 
 ## Motivation
 We became motivated because of all these voluntary blood donation organization who are trying hard to accumulate donors who are willing to help people. The aim of this Blood Donation Application is to improve the communication with the people who are in need of blood and the persons who are willing to donate blood in few touches of the Smartphone. This location based Blood Donation Application will reduce the barrier between blood donors and the people in sever need of blood. The donors’ location can be detected by the app and the best matched donor will be contacted in no time.
