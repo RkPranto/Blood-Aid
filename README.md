@@ -75,9 +75,24 @@ The project “BLOOD AID” app is divided into two main modules – Admistratio
    <img src="https://user-images.githubusercontent.com/30120066/77251969-ba43bc80-6c7b-11ea-89bc-4ebcdc95451c.JPG" width="200" height="400"></img>
    </p>
    
-   
+   * <b>Search :</b> can search for donor , ambulance, hospital , organizaotion <br>
+   <p float="left">
+      <img src="https://user-images.githubusercontent.com/30120066/77252073-3b02b880-6c7c-11ea-8c22-dd0ec23bd877.JPG" width="200" height="400"></img>
+      <img src="https://user-images.githubusercontent.com/30120066/77252074-3ccc7c00-6c7c-11ea-8c70-156bb5970344.JPG" width="200" height="400"></img>
+      <img src="https://user-images.githubusercontent.com/30120066/77252076-3dfda900-6c7c-11ea-85ff-c4cec46eedfd.JPG" width="200" height="400"></img>
+      </p>
+      
+   * <b>Request :</b> can apply for blood if needed and it will give notification to respected donor   </br>
+   <p float="left">
+      <img src="https://user-images.githubusercontent.com/30120066/77252270-f0357080-6c7c-11ea-9d67-13a40de176aa.JPG" width="200" height="400"></img>
+      <img src="https://user-images.githubusercontent.com/30120066/77252272-f1669d80-6c7c-11ea-9225-b38d96a7e122.JPG" width="200" height="400"></img>
+      </p>
 
+## CONCLUSION
+The aim of this Blood Donation Application is to improve the communication with the people who are in need of blood and the persons who are willing to donate blood in few touches of the Smartphone. This Location based Blood Donation Application will reduce the barrier between blood donors and the people in sever need of blood. The donors’ location can be detected by the app and the best matched donor will be contacted in no time. So our research paper’s objective is to build a community of blood donor and to make sure that we can come forward to donate blood as it can make sure the return of a dying man again into the light of life
 
+The blood donation Application we are making puts the power to save lives in the palm of your hand. Donating blood and blood components are easier than ever. A person just needs to have an account in our Blood Donation Application, then he can both donate and request for blood anytime. “BLOOD AID” is a free blood Donation app available for Android Smartphone. Blood Donor searches, notifies and connect thousands of blood donors in some simple steps. Blood Donor donation app ensures hassle free blood donation and privacy of a blood donor. Connecting blood donors and needy reduces time which increases the possibility of saving lives and also eliminates the shortage of blood.
 
+The “BLOOD AID” App will make the easiest and fastest way to get a best match blood donor
 
 
